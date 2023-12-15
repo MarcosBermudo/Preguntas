@@ -1,1 +1,18 @@
+package com.example;
 
+public class Main {
+    public static void main(String[] args) {        
+        String[] preguntas = {
+            "El río Nilo es el río más largo del mundo.",
+            "Los pingüinos pueden volar.",
+            "El Sol gira alrededor de la Tierra.",
+            "La Mona Lisa fue pintada por Leonardo da Vinci.",
+            "La capital de Austria es Viena.",
+            "El ajedrez se originó en China.",
+            "La Estatua de la Libertad está en Nueva York.",
+            "La Torre Eiffel está ubicada en Lyon.",
+            "El Monte Everest es la montaña más alta del mundo. ",
+            "El Océano Pacífico es más grande que el Océano Atlántico."
+        };
+
+     
